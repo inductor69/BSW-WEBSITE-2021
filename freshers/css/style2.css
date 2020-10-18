@@ -1,0 +1,545 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+
+body{
+	font-family: 'Raleway';
+	line-height: 150%;
+	font-size: 170%;
+    color:rgb(8,29,60);
+}
+.navbar-brand{
+	margin:0px;
+	padding:0px;
+}
+.jumbotron1>.jumbotron {
+	background-image: url("../assets/slide1.jpg");
+	 height: 250px;
+    /* Set a specific height */
+    min-height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	 width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-color: white;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.jumbotron h2{
+	position:relative;
+	top:25%;
+	font-size: 60px;
+  color: rgb(8,29,60);
+	font-weight: 600;
+  margin-left: 5%;
+}
+.jumbotron .btnmain{
+margin-top: 12%;
+margin-left: 17%;
+}
+.jumbotron .btnmain li{
+  background-color: rgb(221, 11, 56);
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 1.3px;
+  padding-top: 5px;
+  padding-left: 50px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  width: 200px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  margin-right: 25px;
+  -webkit-animation: shake 3s 1;
+  animation: shake 3s 1;
+}
+.jumbotron .btnmain li {
+  cursor: pointer;
+  display: inline-block;
+  transition: 0.5s;
+  padding-top: 5px;
+}
+.row > #objh{
+	text-align: center;
+}
+.row #objp{
+	text-align: center;
+	font-size: 1.1em;
+	color:rgb(8,29,60);
+	padding-bottom: 2px;
+}
+.col-md-4{
+	margin-bottom: 50px;
+	width: auto;
+	margin-left: 5%;
+	margin-right: 10%;
+}
+.col-md-4 b{
+	color: rgb(221, 11, 56);
+	font-weight: 1000;
+	text-align: left;
+}
+.col-md-4 a{
+  color: rgb(8,29,60);
+}
+.col-md-4 a:hover {
+  -webkit-animation: tada 2s 1;
+  animation: tada 2s 1;
+  text-decoration: underline;
+}
+.col-md-4 p{
+	font-weight: 500;
+	font-family: 'Nunito';
+}
+.col-md-5 {
+  text-align: center;
+  width: 250px;
+  margin-left: 7%;
+}
+.col-md-5 a{
+	color: rgb(8,29,60);
+}
+.plus a:hover {
+	text-decoration: underline;
+	color: rgb(221, 11, 56);
+}
+.plusbsa a:hover {
+  text-decoration: underline;
+  color: rgb(255, 196, 0);
+}
+.plus1 a:hover {
+	text-decoration: underline;	
+	color: rgb(221, 11, 56);
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.2);
+}
+
+.jumbotron2 > .jumbotron{
+	text-align: center;
+	background-color: yellow;
+	height:15%;
+	padding:5px;
+	margin-bottom: 0;
+	color:rgb(8,29,60);
+	overflow: hidden;
+}
+.jumbotron h4{
+	position:relative;
+	top:13%;
+
+}
+.jumbotron3 > .jumbotron{
+	background: #081D60 left right;
+	width: 30%;
+	float: right;
+    height: 0;
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+    color:white;
+    margin-bottom: 0;
+    border: 0.5px solid black;
+}
+
+.jumbotron h4{
+	position:absolute;
+	top:0%;
+
+}
+
+
+.footer >.container{
+	padding-top: 20px;
+	color:rgb(8,29,60);
+}
+.footer ul{
+	list-style: none;
+}
+#smp>a> img{
+	width:550px;
+	border:1px solid black;
+}
+.panel-heading:hover{
+       
+}
+
+.facebooklinks:hover {
+  color: rgb(8,29,60);
+  text-decoration: underline;
+}
+
+.piccredit {
+  font-size: 14px;
+  float: right;
+  color: rgb(8,29,60);
+  margin-top: 22.8%;
+}
+
+#acadnametext {
+  color: white; 
+  font-weight: 600;
+  font-size: 25px; margin-top: 5px;
+}
+
+.name1 {
+   background-color: rgb(8,29,60);
+    display: inline-block;
+    border-radius: 5px;
+    border: solid 2px rgb(8,29,60);
+    width: 40%;
+    text-align: center;
+}
+.name2 {
+  background-color: rgb(8,29,60); 
+  display: inline-block; 
+  border-radius: 5px; 
+  border: solid 2px rgb(8,29,60);
+  width: 40%;
+  text-align: center; 
+  margin-left: 15%;
+}
+.nameparent {
+  margin-left: 12%; margin-right: 10%;
+}
+/*slideshow*/
+.slider {
+  width: 1024px;
+  margin: 2em auto;
+  
+}
+
+.slider-wrapper {
+  width: 100%;
+  height: 600px;
+  position: relative;
+}
+
+.slide {
+  float: left;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 3s linear;
+}
+
+.slider-wrapper > .slide:first-child {
+  opacity: 1;
+}
+
+
+
+.bsabox {
+    margin-top: 6%;margin-left: 10%;margin-right: 10%; font-size: 18px;
+}
+.extrafoot {
+  margin-left: 8%;
+}
+.smallbox {
+  margin-left: 5%; margin-right: 5%;
+}
+
+.secondlink {
+  margin-left: 5%;display: inline-block;font-size: 24px; color: rgb(255,196,0);
+}
+.dimpdf 
+{
+  width: 700px;
+  height: 600px;
+}
+/* creating animations here*/
+ @-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  -webkit-animation: fadeIn 3s 1;
+  animation: fadeIn 3s 1;
+}
+
+@-webkit-keyframes shake {
+  from, to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  10%, 30%, 50%, 70%, 90% {
+    -webkit-transform: translate3d(-10px, 0, 0);
+    transform: translate3d(-10px, 0, 0);
+  }
+
+  20%, 40%, 60%, 80% {
+    -webkit-transform: translate3d(10px, 0, 0);
+    transform: translate3d(10px, 0, 0);
+  }
+}
+
+@keyframes shake {
+  from, to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  10%, 30%, 50%, 70%, 90% {
+    -webkit-transform: translate3d(-10px, 0, 0);
+    transform: translate3d(-10px, 0, 0);
+  }
+
+  20%, 40%, 60%, 80% {
+    -webkit-transform: translate3d(10px, 0, 0);
+    transform: translate3d(10px, 0, 0);
+  }
+}
+@-webkit-keyframes tada {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  10%, 20% {
+    -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  }
+
+  30%, 50%, 70%, 90% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  }
+
+  40%, 60%, 80% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes tada {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  10%, 20% {
+    -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+  }
+
+  30%, 50%, 70%, 90% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+  }
+
+  40%, 60%, 80% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+    transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+/*creating parallaxes*/
+.parallaxbrca {
+  background-image: url("../images/brca.jpg");
+   height: 250px;
+    /* Set a specific height */
+    min-height: 250px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaxbsw {
+  background-image: url("../images/bsw2.jpg");
+   height: 250px;
+    /* Set a specific height */
+    min-height: 250px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.parallaxbsa {
+  background-image: url("../images/bsa.jpg");
+   height: 50%;
+    /* Set a specific height */
+    min-height: 250px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.parallaxbhm {
+  background-image: url("../images/bhm.jpg");
+   height: 50%;
+    /* Set a specific height */
+    min-height: 250px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}.parallaxsac {
+  background-image: url("../images/sac.jpg");
+    /* Set a specific height */
+    min-height: 250px;
+    height: 50%;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaxcaic {
+  background-image: url("../images/caic.png");
+    /* Set a specific height */
+    min-height: 250px;
+    height: 50%;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaxbsp {
+  background-image: url("../images/bsp.jpg");
+    /* Set a specific height */
+    min-height: 250px;
+    height: 50%;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*responsiveness changing according to the media screen*/
+@media screen and (max-width: 500px) {
+  .jumbotron .btnmain{
+  margin-top: 65%;
+  margin-left: 24%;
+  }
+  .piccredit {
+    font-size: 14px;
+    float: right;
+    color: rgb(8,29,60);
+    margin-top: 34%;
+    margin-right: 0.5%;
+  }
+  .jumbotron h2{
+  position:relative;
+  top:25%;
+  font-size: 60px;
+  color: rgb(8,29,60);
+  font-weight: 600;
+  margin-left: 1%;
+}
+.blockacad {
+  margin-top: 15%;
+}
+.blockfaq {
+  margin-top: 15%;
+}
+.nameparent {
+  margin-left: 10%; margin-right: 3%;
+}
+#acadnametext {
+  color: white; 
+  font-weight: 600;
+  font-size: 25px; margin-top: 5px;
+}
+
+.name1 {
+   background-color: rgb(8,29,60);
+    display: inline-block;
+    border-radius: 5px;
+    border: solid 2px rgb(8,29,60);
+    width: 44%;
+    text-align: center;
+}
+.name2 {
+  background-color: rgb(8,29,60); 
+  display: inline-block; 
+  border-radius: 5px; 
+  border: solid 2px rgb(8,29,60);
+  width: 40%;
+  text-align: center; 
+  margin-left: 7%;
+}
+.col-md-5 {
+  text-align: center;
+  width: 250px;
+
+}
+.slider {
+  width: 380px;
+  margin: 2em auto;
+  
+}
+
+.slider-wrapper {
+  width: 100%;
+  height: 200px;
+  position: relative;
+}
+
+.slide {
+  float: left;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: opacity 3s linear;
+}
+
+.slider-wrapper > .slide:first-child {
+  opacity: 1;
+}
+
+.bsabox {
+  margin-top: 1%;
+  padding-top: 30%;margin-left: 10%;margin-right: 10%; font-size: 18px;
+}
+.extrafoot {
+  margin-left: 4%;
+}
+.smallbox {
+  margin-left: 0%; margin-right: 0%;
+}
+.secondlink {
+  margin-left: -10%;display: inline-block;font-size: 24px; color: rgb(255,196,0);
+}
+.dimpdf {
+  width: 300px;
+  height: 400px;
+}
+}

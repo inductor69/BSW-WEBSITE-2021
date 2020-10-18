@@ -1,0 +1,19 @@
+{
+    "name": "japneet/bsw_website_2020",
+    "description": "BSW IIT Delhi Official Website",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Japneet Singh",
+            "email": "singhjapneetssa@gmail.com"
+        }
+    ],
+    "require": {
+        "botman/botman": "^2.3",
+        "botman/driver-web": "^1.5",
+        "symfony/cache": "3.4.35",
+        "phpmailer/phpmailer": "^6.1",
+        "curl/curl": "^2.3"
+    },
+    "license": "MIT"
+}

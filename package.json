@@ -1,0 +1,29 @@
+{
+    "name": "bsw_website_2020",
+    "version": "1.0.0",
+    "description": "Website for BSW IIT Delhi",
+    "main": "index.php",
+    "dependencies": {
+        "bower": "^1.8.8",
+        "preact": "^10.4.7"
+    },
+    "devDependencies": {
+        "@prettier/plugin-php": "^0.14.2",
+        "prettier": "^2.0.5"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prettier": "prettier",
+        "prettier-fix": "prettier -- */**.php *.php --write"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JapneetSingh5/BSW_Website_2020.git"
+    },
+    "author": "Japneet Singh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JapneetSingh5/BSW_Website_2020/issues"
+    },
+    "homepage": "https://github.com/JapneetSingh5/BSW_Website_2020#readme"
+}
