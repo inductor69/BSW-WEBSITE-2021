@@ -242,7 +242,14 @@
 						<ul class="submenu dropdown-menu">
 							<li><a class="dropdown-item" href="academic_mentorship.php">Academic Mentorship</a></li>
 							<li><a class="dropdown-item" href="alumni_mentorship.php">Alumni Mentorship</a><li>
-							<li><a class="dropdown-item" href="language_mentorship.php">Language Mentorship </a></li>
+							<li><a class="dropdown-item" href="dialog.php"> </a></li>
+							<li>
+							<a class="dropdown-item" href="#">Language Mentorship<small><span id="right-drop-arrow">&#9658;</span></small></a>
+							<ul class="submenu dropdown-menu">
+								<li><a class="dropdown-item" href="email_config.php">English</a></li>
+								<li><a class="dropdown-item" href="wifi_config.php">Hindi</a></li>
+							</ul>
+						</li>
 							<li><a class="dropdown-item" href="mental_health.php">Mental Health Mentorship &amp; Counselling</a></li>
 						</ul>
 					</li>
