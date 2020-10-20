@@ -247,7 +247,7 @@
 							<a class="dropdown-item" href="#">Language Mentorship<small><span id="right-drop-arrow">&#9658;</span></small></a>
 							<ul class="submenu dropdown-menu">
 								<li><a class="dropdown-item" href="language_mentorship.php">English</a></li>
-								<li><a class="dropdown-item" href="wifi_config.php">हिन्दी</a></li>
+								<li><a class="dropdown-item" href="lang_ment_hindi.php">हिन्दी</a></li>
 							</ul>
 						</li>
 							<li><a class="dropdown-item" href="mental_health.php">Mental Health Mentorship &amp; Counselling</a></li>
