@@ -292,8 +292,8 @@ body{
 			
             <div class="col-xs-12 col-sm-5" style="text-align: center;" >
 			</br>
-            <h1 style="font-family: Anton !important;" id="mh_heading1" >Language Mentorship</h1>
-			<p style="font-family: Anton !important;" id="mh_heading2" >Bridging The Communication Gap </p>
+            <h1 style="font-family: Anton !important;" id="mh_heading1" >लैंग्वेज मेंटरशिप</h1>
+			<p style="font-family: Anton !important;" id="mh_heading2" >संचार अंतराल को पाटना </p>
 
 
             </div>
@@ -308,15 +308,15 @@ body{
         <div class="row">
 
 		<div class="col-12 col-lg-6 "  >
-		<h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">Introduction
+		<h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">परिचय
 </h1></br>
 			
 	
 			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px;  text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
-  <li>Language Mentorship is an initiative of BSW that aims to create a holistic ecosystem where students can learn and practice language.</li>
-  <li> The objective is to help students who are not comfortable with English or Hindi understand and comprehend the language.</li>
-  <li>This helps the students to adapt to the academic system in IITD and interact with their peers comfortably. This also helps them with assignments and lecture notes and following the classes.  Confidence to speak to the teaching assistants and professors is also gained by them.</li>
+  <li>लैंग्वेज मेंटरशिप बीएसडब्ल्यू की एक पहल है जिसका उद्देश्य एक एकीकृत माहौल बनाना है जहां छात्र भाषा सीख सकते हैं और अभ्यास कर सकते हैं।</li>
+  <li> इसका उद्देश्य छात्रों के भीतर अंग्रेजी या हिंदी भाषा को समझने में असहजता को दूर करना है|</li>
+  <li>यह छात्रों को IITD में शैक्षणिक प्रणाली के अनुकूल होने और अपने साथियों के साथ आराम से बातचीत करने में मदद करता है। यह उन्हें असाइनमेंट ,लेक्चर नोट्स और कक्षा में कराई गयी पढ़ाई सरलता से सझने में भी मदद करता है। और तो और टी ऐ  और प्रोफेसरों से बात करने का आत्मविश्वास भी उनके द्वारा प्राप्त किया जा सकता है|</li>
 </ul>
 
             </div>
@@ -341,23 +341,23 @@ body{
             
 
 		   <div class="col-12 col-lg-6 "  >
-            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;"> Importance Of Communication In General
+            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;"> संचार का महत्त्व
 
 </h1>
-<h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(SKILLS AREN’T EVERYTHING)
+<h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(कौशल ही सब कुछ नहीं है)
 
 </h1>
 			</br>
 	
 			</br>
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
-  <li>Every person is unique and we all possess valuable skill sets .
+  <li>प्रत्येक व्यक्ति की अपमी अलग सोच और व्यहवहार हैं और हम सभी के पास मूल्यवान स्किल सेट हैं।
 </li>
-  <li>  Naturally, our skills are the  ones that earn us a status of some kind.
+  <li>स्वाभाविक रूप से, हमारे कौशल वे हैं जो हमें किसी प्रकार का दर्जा देते हैं।
 </li>
-  <li> We sometimes tend to neglect our presentation skills.
+  <li>हम कभी-कभी किसी चीज़ को प्रस्तुत करने के कौशल को नज़रअंदाज़ कर देते हैं|
 </li>
-<li>Skill is only an ingredient for success,which displays its true potential only when supported by the way you communicate and showcase your ideas.
+<li>कौशल केवल सफलता के लिए एक सामग्री है, जो अपनी वास्तविक क्षमता को केवल तभी प्रदर्शित करता है जब आप अपने विचारों को प्रस्तुत और प्रदर्शित प्रभावशाली रूप से कर पाएं|
 </li>
 </ul>
 
@@ -373,18 +373,19 @@ body{
         <div class="row">
 
 		<div class="col-12 col-lg-6 "  >
-            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">Necessity Of Learning English 
-</h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(Even On A Global Level)
+            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">अंग्रेजी सीखने की आवश्यकता
+</h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(एक वैश्विक स्तर पर भी)
 </h1>
 			</br>
 	
 			</br>
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
-  <li>English is a globally accepted language. Its use has become so common that  having a good command over the language is essential.
+  <li>
+अंग्रेजी विश्व स्तर पर स्वीकृत भाषा है। इसका उपयोग इतना आम हो गया है कि भाषा पर एक अच्छी पकड़ होना आवश्यक है।
 </li>
-  <li> When you go out for meetings, attend seminars or talk shows,you need to know english. Even when you go out to travel,you need to read maps, ask the people for directions and what not. It might look like english isn’t important at the moment or in the immediate future. 
+  <li>जब आप मीटिंग के लिए बाहर जाते हैं, सेमिनार या टॉक शो में जाते हैं, तो आपको अंग्रेजी जानने की जरूरत होती है। यहां तक कि जब आप यात्रा करने के लिए बाहर जाते हैं, तो आपको नक्शे पढ़ने की जरूरत है, लोगों से दिशाएं पूछें और क्या नहीं। ऐसा लग सकता है कि अंग्रेजी फिलहाल या आने वाले कुछ समय में महत्वपूर्ण नहीं है।
 </li>
-  <li>Students don’t realise the importance on time and end up being a victim of what is known as language barriers.
+  <li>छात्रों को समय पर महत्व का एहसास नहीं होता है और अंत में भाषा बाधा बनके सामने आ जाती है|
 </li>
 </ul>
 
@@ -410,19 +411,19 @@ body{
 <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_ZAgPRG.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;"  loop  autoplay></lottie-player>            </div>
 </div>
 		   <div class="col-12 col-lg-6 "  >
-            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">Motivation For Taking Up English Lessons 
+            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">अंग्रेजी सबक लेने के लिए प्रेरणा
 
-</h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(Specifically  College And Daily Life)
+</h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(विशेष रूप से कॉलेज और दैनिक जीवन)
 </h1>
 			</br>
 	
 			</br>
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
-  <li>It forms a part of your daily lives where all the lectures,assignments and interactions are given to you .
+  <li>यह आपके दैनिक जीवन का एक हिस्सा बनाता है जहां आपको सभी लेक्चर, असाइनमेंट और इंटरैक्शन दिए जाते हैं।
 </li>
-  <li> Constant interactions with professors and Teaching assistants.
+  <li>प्रोफेसरों और शिक्षण सहायकों के साथ लगातार बातचीत।
 </li>
-  <li >All of the presentations and informative sessions usually have information compiled in english.
+  <li >सभी प्रस्तुतियों और जानकारीपूर्ण सत्रों में आमतौर पर अंग्रेजी में लिखित एवं प्रस्तुत जानकारी ही होती है
 </li>
 </ul>
 
@@ -439,21 +440,20 @@ body{
         <div class="row">
 
 		<div class="col-12 col-lg-6 "  >
-            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">Motivation For Taking Up English Lessons 
+            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">अंग्रेजी सबक लेने के लिए प्रेरणा
 
-</h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(Specifically  Interns And Placements)
+</h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(विशेष रूप से इंटर्न और प्लेसमेंट)
 </h1>
 			</br>
 	
 			</br>
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
-  <li>Interviews and placements have a major part of english speaking.
+  <li>इंटरव्यू और प्लेसमेंट में अंग्रेजी बोलने का एक प्रमुख हिस्सा है।
+</li>
+  <li> जब आप इंटरव्यू के लिए जाते हैं, तो वे आपको इतने कम समय में पूरी तरह से जज नहीं कर सकते हैं लेकिन जिस तरह से आप बातचीत करते हैं, उससे बहुत फर्क पड़ता है और आप भीड़ से अलग हो जाते हैं।
 
 </li>
-  <li> When you go for interviews, they cannot judge you completely in such a short period of time but the way you communicate makes a huge difference and makes you stand out from the crowd.
-
-</li>
-  <li>The way you write your emails trying for an internship or the way you put forward your achievements, every single thing counts and your language again, lies at the core of all this.
+  <li>जिस तरह से आप अपने ईमेल को इंटर्नशिप के लिए कोशिश करते हुए लिखते हैं या जिस तरह से आप अपनी उपलब्धियों को आगे रखते हैं, हर एक चीज मायने रखती है और आपकी भाषा इन सब में सबसे महत्वपूर्ण भूमका निभाती है
 </li>
 </ul>
 
@@ -481,22 +481,20 @@ body{
            </div>
 
 		   <div class="col-12 col-lg-6 "  >
-            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">English Required In The Future
+            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">भविष्य में अंग्रेजी आवश्यक
 
 
 </h1></br>
 			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
-  <li> Most of the meetings and webinars that take place have conversations involving english.
+  <li> अधिकांश बैठकों और वेबिनार में होने वाली बातचीत में अंग्रेजी से जुड़े वार्तालाप होते हैं।
+</li>
+  <li> लेख, समाचार पत्र, प्रस्तुतियाँ, सब कुछ अंग्रेजी में वर्णित होती हैं
+</li>
+  <li >आपके दैनिक कार्य पर घोषणाएँ, सेमिनार और निर्देश, यह सभी अंग्रेजी में बताए जाते हैं
 
 </li>
-  <li>  Articles,newsletters,presentations, everything is done in english.
-
-</li>
-  <li >Announcements, seminars and instructions at your daily job ,all of it is conveyed in english.
-
-</li>
-<li >Even if it doesn’t seem useful right now,no matter what you do later on , your communication skills will come in handy .  
+<li >यहां तक कि अगर यह अभी उपयोगी नहीं लगता है, तो भले ही आप बाद में कोई भी कार्य करें, आपके संचार कौशल हमेशा काम आएंगे।
 
 
 </li>
@@ -517,8 +515,8 @@ body{
   <div class="card  bg-custom">
     <img class="card-img-top" src="images/book.svg" style="width: 100%; height: 50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">WORKBOOK</h5>
-      <p class="card-text">The WorkBook is a complete A To Z module which is going to help any Beginner to be College Ready and it is developed in such a way that people with no prior knowledge about English can work on their own without anyone’s guidance.</p>
+      <h5 class="card-title">कार्यपुस्तिका</h5>
+      <p class="card-text">वर्कबुक एक पूर्ण ए टू जेड मॉड्यूल है जो किसी भी शुरुआती को कॉलेज रेडी होने में मदद करने वाला है और इसे इस तरह से विकसित किया जाता है कि अंग्रेजी के बारे में पूर्व में कम ज्ञान रखने वाले लोग भी किसी के मार्गदर्शन के बिना अपने दम पर काम कर सकते हैं।</p>
     </div>
   </div>
   </div>
@@ -528,9 +526,8 @@ body{
   <div class="card bg-custom1">
     <img class="card-img-top1" src="images/videoo.svg" style="width: 100%; height: 50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">VIDEO WALKTHROUGH</h5>
-      <p class="card-text">A step by step  tutorial has been provided illustrating the process to enroll in the <a href="https://helloenglish.com/">HELLO ENGLISH</a>
- program. This is free of cost for the students of IIT Delhi.  If you face any other issues or have any queries, mention it in the form below and we will help you resolve it. Happy learning!</p>
+      <h5 class="card-title">वीडियो वॉकथ्रू</h5>
+      <p class="card-text"><a href="https://helloenglish.com/">HELLO ENGLISH</a> कार्यक्रम में नामांकन करने के लिए प्रक्रिया के बारे में बताते हुए एक स्टेप बाय स्टेप ट्यूटोरियल प्रदान किया गया है । यह आईआईटी दिल्ली के छात्रों के लिए मुफ्त है। यदि आप किसी अन्य समस्या का सामना करते हैं या आपके कोई प्रश्न हैं, तो नीचे दिए गए फॉर्म में इसका उल्लेख करें और हम आपको इसे हल करने में मदद करेंगे। आशा है आपको सीखने में आनंद आएगा !</p>
     </div>
   </div>  
   </div>
@@ -539,8 +536,8 @@ body{
   <div class="card bg-custom2">
   <img class="card-img-top mx-auto d-block" src="images/orga.svg" style= "width: 90%; height:50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">PAIRED UP ORGANISATION</h5>
-      <p class="card-text">BSW is glad to announce the collaboration with <a style="color:#800080"; href="https://helloenglish.com/">HELLO ENGLISH</a>. This is the first time in the history of IITD that a renowned organization is providing you an opportunity to learn English. This partnership is a big step towards reducing the language barrier among students and ensuring a comfortable stay for them. Please go through the video walkthrough given below to understand how to use this facility.</p>
+      <h5 class="card-title">सहयोजित संगठन </h5>
+      <p class="card-text">बीएसडब्ल्यू को <a style="color:#800080"; href="https://helloenglish.com/">HELLO ENGLISH</a> के साथ सहयोग की घोषणा करने में खुशी है । आईआईटीडी के इतिहास में यह पहली बार है कि एक प्रसिद्ध संगठन आपको अंग्रेजी सीखने का अवसर प्रदान कर रहा है। यह साझेदारी छात्रों के बीच भाषा की बाधा को कम करने और उनके लिए एक आरामदायक प्रवास सुनिश्चित करने की दिशा में एक बड़ा कदम है। कृपया इस सुविधा का उपयोग करने के तरीके को समझने के लिए नीचे दिए गए वीडियो वॉकथ्रू से गुजरें।</p>
     </div></div>
   </div>
 </div>
@@ -552,7 +549,7 @@ body{
 
             <div class="col-12 mt-4 about-us-title justify-content-center" style="text-align: center; font-family: Montserrat !important;">
 			<h1 style="font-family: Montserrat !important; ">
-			The Workbook           
+			द वर्कबुक         
 			</h1>
 
 			</div>
@@ -560,7 +557,7 @@ body{
 
 		<div class="col-12 my-4">
 
-		This year we have created a pedagogical tool, the activity workbook in English. You can work on enhancing and elaborating the study material further in both English and Hindi.	<br>	
+		इस वर्ष हमने एक शैक्षणिक उपकरण बनाया है, अंग्रेजी में गतिविधि कार्यपुस्तिका। आप अंग्रेजी और हिंदी दोनों में अध्ययन सामग्री को आगे बढ़ाने और विस्तृत करने पर काम कर सकते हैं।	<br>	
 		<a href="misc/lang_workbook.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-primary my-4" style={display:inline;}><span class="fa fa-download fa-lg"></span> Download Workbook</a>
 		<div class="card col-12 my-4">
 		<embed src="misc/lang_workbook.pdf" class="form-preview">
@@ -574,65 +571,10 @@ body{
 
 </br>
 </br>
-<div class= "container">
-<div class="container justify-content-center mb-4" id="lm-wb">
 
-<div class="row justify-content-center">
-
-          <div class="col-12 mt-4 about-us-title justify-content-center" style="text-align: center; font-family: Montserrat !important;">
-    <h1 style="font-family: Montserrat !important; ">
-    How language shapes the way we think          
-    </h1>
-
-    </div>
-
-
-  <div class="col-12 my-4">
-
-  There are about 7,000 languages spoken around the world -- and they all have different sounds, vocabularies and structures. But do they shape the way we think? Cognitive scientist Lera Boroditsky shares examples of language	<br>	
- 
-  </div>
 
 
 </div>
-
-</div>
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RKK7wGAYP6k?rel=0" allowfullscreen></iframe>
-</div>
-</div>
-<br>
-<div class= "container">
-<div class="container justify-content-center mb-4" id="lm-wb">
-
-<div class="row justify-content-center">
-
-          <div class="col-12 mt-4 about-us-title justify-content-center" style="text-align: center; font-family: Montserrat !important;">
-    <h1 style="font-family: Montserrat !important; ">
-    Does Grammar matter ?          
-    </h1>
-
-    </div>
-
-
-  <div class="col-12 my-4">
-
-  It can be hard sometimes, when speaking, to remember all of the grammatical rules that guide us when we’re writing. When is it right to say “the dog and me” and when should it be “the dog and I”? Does it even matter? Senior Lecturer and convenor of linguistics at University of Waikato, Dr.Andreea S. Calude shares her opnion.	<br>	
- 
-  </div>
-
-
-</div>
-
-</div>
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wn_eBrIDUuc?rel=0" allowfullscreen></iframe>
-</div>
-</div>
-  </br>
-  </div>
 
 <?php require 'components/footer.php'; ?>
 
