@@ -203,7 +203,7 @@ body{
 		font-family: Montserrat;
 		font-weight:500;
 		font-size: 20px;
-		text-shadow: 0 2px 4px rgba(0,0,0,0.25);
+		text-shadow: 0 2px 4px rgba(0,0,0,0.0);
 		color: rgba(0,0,0,0.85);
 		letter-spacing: 0;
 		text-align: center;
@@ -308,12 +308,14 @@ body{
         <div class="row">
 
 		<div class="col-12 col-lg-6 "  >
-		<h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">परिचय
+    <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;"> 
+
+    <a href="#resources"> <div role="button" class="btn align-self-end"><span class="fa fa-arrow-down fa-lg" > </a> </span></div> परिचय
 </h1></br>
 			
 	
 			
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px;  text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px;  text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>लैंग्वेज मेंटरशिप बीएसडब्ल्यू की एक पहल है जिसका उद्देश्य एक एकीकृत माहौल बनाना है जहां छात्र भाषा सीख सकते हैं और अभ्यास कर सकते हैं।</li>
   <li> इसका उद्देश्य छात्रों के भीतर अंग्रेजी या हिंदी भाषा को समझने में असहजता को दूर करना है|</li>
   <li>यह छात्रों को IITD में शैक्षणिक प्रणाली के अनुकूल होने और अपने साथियों के साथ आराम से बातचीत करने में मदद करता है। यह उन्हें असाइनमेंट ,लेक्चर नोट्स और कक्षा में कराई गयी पढ़ाई सरलता से सझने में भी मदद करता है। और तो और टी ऐ  और प्रोफेसरों से बात करने का आत्मविश्वास भी उनके द्वारा प्राप्त किया जा सकता है|</li>
@@ -350,7 +352,7 @@ body{
 			</br>
 	
 			</br>
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>प्रत्येक व्यक्ति की अपमी अलग सोच और व्यहवहार हैं और हम सभी के पास मूल्यवान स्किल सेट हैं।
 </li>
   <li>स्वाभाविक रूप से, हमारे कौशल वे हैं जो हमें किसी प्रकार का दर्जा देते हैं।
@@ -379,7 +381,7 @@ body{
 			</br>
 	
 			</br>
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>
 अंग्रेजी विश्व स्तर पर स्वीकृत भाषा है। इसका उपयोग इतना आम हो गया है कि भाषा पर एक अच्छी पकड़ होना आवश्यक है।
 </li>
@@ -418,7 +420,7 @@ body{
 			</br>
 	
 			</br>
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>यह आपके दैनिक जीवन का एक हिस्सा बनाता है जहां आपको सभी लेक्चर, असाइनमेंट और इंटरैक्शन दिए जाते हैं।
 </li>
   <li>प्रोफेसरों और शिक्षण सहायकों के साथ लगातार बातचीत।
@@ -447,7 +449,7 @@ body{
 			</br>
 	
 			</br>
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>इंटरव्यू और प्लेसमेंट में अंग्रेजी बोलने का एक प्रमुख हिस्सा है।
 </li>
   <li> जब आप इंटरव्यू के लिए जाते हैं, तो वे आपको इतने कम समय में पूरी तरह से जज नहीं कर सकते हैं लेकिन जिस तरह से आप बातचीत करते हैं, उससे बहुत फर्क पड़ता है और आप भीड़ से अलग हो जाते हैं।
@@ -486,7 +488,7 @@ body{
 
 </h1></br>
 			
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li> अधिकांश बैठकों और वेबिनार में होने वाली बातचीत में अंग्रेजी से जुड़े वार्तालाप होते हैं।
 </li>
   <li> लेख, समाचार पत्र, प्रस्तुतियाँ, सब कुछ अंग्रेजी में वर्णित होती हैं
@@ -507,6 +509,8 @@ body{
 </div>
 
 </br></br>
+<a id="resources"></a>
+
 <div class="container">
 <div class="row">
 

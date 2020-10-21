@@ -60,7 +60,7 @@ body{
     color: rgba(0,0,0,0.70);
     letter-spacing: 1.2px;
     text-align: center;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.350);
+    text-shadow: 0 1px 2px rgba(0,0,0,0.0);
 }
 #mh_heading{
     padding-top: 50px;
@@ -69,7 +69,7 @@ body{
     color: rgba(0,0,0,0.70);
     letter-spacing: 0;
     text-align: center;
-    text-shadow: 0 3px 4px rgba(0,0,0,0.350);
+    text-shadow: 0 3px 4px rgba(0,0,0,0.0);
 }
 #mh_events{
     font-family: Montserrat;
@@ -203,7 +203,7 @@ body{
 		font-family: Montserrat;
 		font-weight:500;
 		font-size: 20px;
-		text-shadow: 0 2px 4px rgba(0,0,0,0.25);
+		text-shadow: 0 2px 4px rgba(0,0,0,0.0);
 		color: rgba(0,0,0,0.85);
 		letter-spacing: 0;
 		text-align: center;
@@ -308,12 +308,15 @@ body{
         <div class="row">
 
 		<div class="col-12 col-lg-6 "  >
-		<h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">Introduction
+
+    <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;"> 
+        
+    <a href="#resources"> <div role="button" class="btn align-self-end"><span class="fa fa-arrow-down fa-lg" > </a> </span></div> Introduction
 </h1></br>
 			
 	
 			
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px;  text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px;  text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>Language Mentorship is an initiative of BSW that aims to create a holistic ecosystem where students can learn and practice language.</li>
   <li> The objective is to help students who are not comfortable with English or Hindi understand and comprehend the language.</li>
   <li>This helps the students to adapt to the academic system in IITD and interact with their peers comfortably. This also helps them with assignments and lecture notes and following the classes.  Confidence to speak to the teaching assistants and professors is also gained by them.</li>
@@ -350,7 +353,7 @@ body{
 			</br>
 	
 			</br>
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>Every person is unique and we all possess valuable skill sets .
 </li>
   <li>  Naturally, our skills are the  ones that earn us a status of some kind.
@@ -379,7 +382,7 @@ body{
 			</br>
 	
 			</br>
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>English is a globally accepted language. Its use has become so common that  having a good command over the language is essential.
 </li>
   <li> When you go out for meetings, attend seminars or talk shows,you need to know english. Even when you go out to travel,you need to read maps, ask the people for directions and what not. It might look like english isn’t important at the moment or in the immediate future. 
@@ -417,7 +420,7 @@ body{
 			</br>
 	
 			</br>
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>It forms a part of your daily lives where all the lectures,assignments and interactions are given to you .
 </li>
   <li> Constant interactions with professors and Teaching assistants.
@@ -446,7 +449,7 @@ body{
 			</br>
 	
 			</br>
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>Interviews and placements have a major part of english speaking.
 
 </li>
@@ -486,7 +489,7 @@ body{
 
 </h1></br>
 			
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li> Most of the meetings and webinars that take place have conversations involving english.
 
 </li>
@@ -509,6 +512,9 @@ body{
 </div>
 
 </br></br>
+<a id="resources"></a>
+
+
 <div class="container">
 <div class="row">
 
