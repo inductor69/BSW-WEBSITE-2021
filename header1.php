@@ -204,174 +204,7 @@
 
 	
 	}
-	body {
-  font-family: sans-serif;
-  background-color: #1d1f20;
-}
 
-.modal-open {
-  padding: 10px 0;
-  font-weight: 300;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  color: #fff;
-  border: 0;
-  outline: none;
-  background-color: transparent;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-}
-.modal-open:before, .modal-open:after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 0;
-  height: 2px;
-  -webkit-transition: width 400ms cubic-bezier(0.165, 0.84, 0.44, 1);
-  transition: width 400ms cubic-bezier(0.165, 0.84, 0.44, 1);
-}
-.modal-open:before {
-  width: 100%;
-  background-color: #9d9d9d;
-}
-.modal-open:after {
-  width: 0;
-  background-color: #505050;
-}
-.modal-open:hover:after {
-  width: calc(100% + 1px);
-}
-
-.modal-box {
-  position: absolute;
-  overflow: hidden;
-  width: 0;
-  height: 2px;
-  color: #fff;
-  background-color: #505050;
-  -webkit-transition: width 400ms 400ms cubic-bezier(0.165, 0.84, 0.44, 1), left 400ms 400ms cubic-bezier(0.165, 0.84, 0.44, 1), height 400ms 0ms cubic-bezier(0.165, 0.84, 0.44, 1), top 400ms 0ms cubic-bezier(0.165, 0.84, 0.44, 1);
-  transition: width 400ms 400ms cubic-bezier(0.165, 0.84, 0.44, 1), left 400ms 400ms cubic-bezier(0.165, 0.84, 0.44, 1), height 400ms 0ms cubic-bezier(0.165, 0.84, 0.44, 1), top 400ms 0ms cubic-bezier(0.165, 0.84, 0.44, 1);
-}
-.modal-box.is-open {
-  -webkit-transition: width 400ms 0ms cubic-bezier(0.165, 0.84, 0.44, 1), left 400ms 0ms cubic-bezier(0.165, 0.84, 0.44, 1), height 400ms 400ms cubic-bezier(0.165, 0.84, 0.44, 1), top 400ms 400ms cubic-bezier(0.165, 0.84, 0.44, 1);
-  transition: width 400ms 0ms cubic-bezier(0.165, 0.84, 0.44, 1), left 400ms 0ms cubic-bezier(0.165, 0.84, 0.44, 1), height 400ms 400ms cubic-bezier(0.165, 0.84, 0.44, 1), top 400ms 400ms cubic-bezier(0.165, 0.84, 0.44, 1);
-}
-.modal-box.is-open li {
-  opacity: 1;
-}
-.modal-box.is-open .modal-close {
-  opacity: 1;
-  -webkit-transition: all 500ms 700ms;
-  transition: all 500ms 700ms;
-}
-.modal-box ul {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin: 0;
-  padding: 30px;
-  list-style-type: none;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-}
-.modal-box li {
-  position: relative;
-  margin: 20px 0;
-  text-align: center;
-  opacity: 0;
-  -webkit-transition: all 200ms;
-  transition: all 200ms;
-}
-.modal-box a {
-  position: relative;
-  font-weight: 300;
-  text-decoration: none;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  color: #fff;
-}
-.modal-box a:before, .modal-box a:after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 0;
-  height: 2px;
-  -webkit-transition: width 400ms cubic-bezier(0.165, 0.84, 0.44, 1);
-  transition: width 400ms cubic-bezier(0.165, 0.84, 0.44, 1);
-}
-.modal-box a:after {
-  width: 0;
-  background-color: #fff;
-}
-.modal-box a:hover:after {
-  width: 100%;
-}
-.modal-box.is-open li:nth-child(1) {
-  -webkit-transition: all 500ms 575ms;
-  transition: all 500ms 575ms;
-}
-.modal-box.is-open li:nth-child(2) {
-  -webkit-transition: all 500ms 650ms;
-  transition: all 500ms 650ms;
-}
-.modal-box.is-open li:nth-child(3) {
-  -webkit-transition: all 500ms 725ms;
-  transition: all 500ms 725ms;
-}
-.modal-box.is-open li:nth-child(4) {
-  -webkit-transition: all 500ms 800ms;
-  transition: all 500ms 800ms;
-}
-.modal-box.is-open li:nth-child(5) {
-  -webkit-transition: all 500ms 875ms;
-  transition: all 500ms 875ms;
-}
-
-.modal-close {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  width: 15px;
-  height: 15px;
-  padding: 0;
-  border: 0;
-  outline: none;
-  opacity: 0;
-  background-color: transparent;
-  -webkit-transform: rotate(-45deg);
-          transform: rotate(-45deg);
-}
-.modal-close:before, .modal-close:after {
-  content: "";
-  display: block;
-  position: absolute;
-  top: 50%;
-  left: 0;
-  width: 15px;
-  height: 3px;
-  background-color: #fff;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-}
-.modal-close:after {
-  width: 3px;
-  height: 15px;
-}
-
-.visuallyhidden {
-  position: absolute;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  width: 1px;
-  height: 1px;
-  margin: -1px;
-  padding: 0;
-  border: 0;
-}
-	
 </style>
 
 <html>
@@ -411,7 +244,7 @@
 							<li><a class="dropdown-item" href="academic_mentorship.php">Academic Mentorship</a></li>
 							<li><a class="dropdown-item" href="alumni_mentorship.php">Alumni Mentorship</a><li>
 							<li><a class="dropdown-item" href="dialog.php"> </a></li>
-							<li><a class="dropdown-item" href="language_mentorship.php">Language Mentorship</a><li>
+							<li><a class="dropdown-item" href="headerr.php">Language Mentorship</a><li>
 							<li><a class="dropdown-item" href="mental_health.php">Mental Health Mentorship &amp; Counselling</a></li>
 						</ul>
 					</li>
@@ -504,8 +337,16 @@
 					<a class="nav-link" href="structure.php">Contact Us</a>
 				</li>
 
-				
-				
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
+						English
+					</a>
+					<ul class="dropdown-menu">
+
+						<li><a class="dropdown-item" href="lang_ment_hindi.php">Hindi</a></li>
+					</ul>
+				</li>
+					
 
 			</ul>
 

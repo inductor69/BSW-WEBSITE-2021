@@ -63,7 +63,7 @@ body{
     text-shadow: 0 1px 2px rgba(0,0,0,0.350);
 }
 #mh_heading{
-    padding-top: 50px;
+    padding-top: 10px;
     font-family: Montserrat;
     font-size:4rem;
     color: rgba(0,0,0,0.70);
@@ -275,7 +275,7 @@ body{
 
 <body >
 		
-<?php require 'components/header.php'; ?>
+<?php require 'header2.php'; ?>
 <?php require 'components/back_to_top.php'; ?>
 
 
@@ -404,9 +404,7 @@ body{
         <div class="row">
 		<div class="col-12 col-lg-6">
 			</br>
-			</br>
-			</br>
-			</br>
+		
 			
 			<div class= "lottie">
 			<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -519,7 +517,7 @@ body{
   <div class="card  bg-custom">
     <img class="card-img-top" src="images/book.svg" style="width: 100%; height: 50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">कार्यपुस्तिका</h5>
+      <h5 style="text-align:center;" class="card-title">कार्यपुस्तिका</h5>
       <p class="card-text">वर्कबुक एक पूर्ण ए टू जेड मॉड्यूल है जो किसी भी शुरुआती को कॉलेज रेडी होने में मदद करने वाला है और इसे इस तरह से विकसित किया जाता है कि अंग्रेजी के बारे में पूर्व में कम ज्ञान रखने वाले लोग भी किसी के मार्गदर्शन के बिना अपने दम पर काम कर सकते हैं।</p>
     </div>
   </div>
@@ -530,8 +528,8 @@ body{
   <div class="card bg-custom1">
     <img class="card-img-top1" src="images/videoo.svg" style="width: 100%; height: 50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">वीडियो वॉकथ्रू</h5>
-      <p class="card-text"><a href="https://helloenglish.com/">HELLO ENGLISH</a> कार्यक्रम में नामांकन करने के लिए प्रक्रिया के बारे में बताते हुए एक स्टेप बाय स्टेप ट्यूटोरियल प्रदान किया गया है । यह आईआईटी दिल्ली के छात्रों के लिए मुफ्त है। यदि आप किसी अन्य समस्या का सामना करते हैं या आपके कोई प्रश्न हैं, तो नीचे दिए गए फॉर्म में इसका उल्लेख करें और हम आपको इसे हल करने में मदद करेंगे। आशा है आपको सीखने में आनंद आएगा !</p>
+      <h5 style="text-align:center;" class="card-title">वीडियो वॉकथ्रू</h5>
+      <p class="card-text"><a href="https://helloenglish.com/">Hello English</a> कार्यक्रम में नामांकन करने के लिए प्रक्रिया के बारे में बताते हुए एक स्टेप बाय स्टेप ट्यूटोरियल प्रदान किया गया है । यह आईआईटी दिल्ली के छात्रों के लिए मुफ्त है। यदि आप किसी अन्य समस्या का सामना करते हैं या आपके कोई प्रश्न हैं, तो नीचे दिए गए फॉर्म में इसका उल्लेख करें और हम आपको इसे हल करने में मदद करेंगे। आशा है आपको सीखने में आनंद आएगा !</p>
     </div>
   </div>  
   </div>
@@ -540,8 +538,8 @@ body{
   <div class="card bg-custom2">
   <img class="card-img-top mx-auto d-block" src="images/orga.svg" style= "width: 90%; height:50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">सहयोजित संगठन </h5>
-      <p class="card-text">बीएसडब्ल्यू को <a style="color:#800080"; href="https://helloenglish.com/">HELLO ENGLISH</a> के साथ सहयोग की घोषणा करने में खुशी है । आईआईटीडी के इतिहास में यह पहली बार है कि एक प्रसिद्ध संगठन आपको अंग्रेजी सीखने का अवसर प्रदान कर रहा है। यह साझेदारी छात्रों के बीच भाषा की बाधा को कम करने और उनके लिए एक आरामदायक प्रवास सुनिश्चित करने की दिशा में एक बड़ा कदम है। कृपया इस सुविधा का उपयोग करने के तरीके को समझने के लिए नीचे दिए गए वीडियो वॉकथ्रू से गुजरें।</p>
+      <h5 style="text-align:center;" class="card-title">सहयोजित संगठन </h5>
+      <p class="card-text">बीएसडब्ल्यू को <a style="color:#800080"; href="https://helloenglish.com/">Hello English</a> के साथ सहयोग की घोषणा करने में खुशी है । आईआईटीडी के इतिहास में यह पहली बार है कि एक प्रसिद्ध संगठन आपको अंग्रेजी सीखने का अवसर प्रदान कर रहा है। यह साझेदारी छात्रों के बीच भाषा की बाधा को कम करने और उनके लिए एक आरामदायक प्रवास सुनिश्चित करने की दिशा में एक बड़ा कदम है। कृपया इस सुविधा का उपयोग करने के तरीके को समझने के लिए नीचे दिए गए वीडियो वॉकथ्रू से गुजरें।</p>
     </div></div>
   </div>
 </div>

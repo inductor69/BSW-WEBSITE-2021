@@ -63,7 +63,7 @@ body{
     text-shadow: 0 1px 2px rgba(0,0,0,0.350);
 }
 #mh_heading{
-    padding-top: 10px;
+    padding-top: 50px;
     font-family: Montserrat;
     font-size:4rem;
     color: rgba(0,0,0,0.70);
@@ -275,7 +275,7 @@ body{
 
 <body >
 		
-<?php require 'header1.php'; ?>
+<?php require 'components/header.php'; ?>
 <?php require 'components/back_to_top.php'; ?>
 
 
@@ -309,11 +309,11 @@ body{
 
 		<div class="col-12 col-lg-6 "  >
 		<h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">Introduction
-</h1>
+</h1></br>
 			
 	
 			
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px;  text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px;  text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
   <li>Language Mentorship is an initiative of BSW that aims to create a holistic ecosystem where students can learn and practice language.</li>
   <li> The objective is to help students who are not comfortable with English or Hindi understand and comprehend the language.</li>
   <li>This helps the students to adapt to the academic system in IITD and interact with their peers comfortably. This also helps them with assignments and lecture notes and following the classes.  Confidence to speak to the teaching assistants and professors is also gained by them.</li>
@@ -341,7 +341,7 @@ body{
             
 
 		   <div class="col-12 col-lg-6 "  >
-            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;"> Importance Of Communication
+            <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;"> Importance Of Communication In General
 
 </h1>
 <h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(SKILLS AREN’T EVERYTHING)
@@ -349,8 +349,8 @@ body{
 </h1>
 			</br>
 	
-	
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
+			</br>
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
   <li>Every person is unique and we all possess valuable skill sets .
 </li>
   <li>  Naturally, our skills are the  ones that earn us a status of some kind.
@@ -377,8 +377,9 @@ body{
 </h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(Even On A Global Level)
 </h1>
 			</br>
-
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
+	
+			</br>
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
   <li>English is a globally accepted language. Its use has become so common that  having a good command over the language is essential.
 </li>
   <li> When you go out for meetings, attend seminars or talk shows,you need to know english. Even when you go out to travel,you need to read maps, ask the people for directions and what not. It might look like english isn’t important at the moment or in the immediate future. 
@@ -400,8 +401,9 @@ body{
         <div class="row">
 		<div class="col-12 col-lg-6">
 			</br>
-		
-
+			</br>
+			</br>
+			</br>
 			
 			<div class= "lottie">
 			<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -414,7 +416,8 @@ body{
 </h1>
 			</br>
 	
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
+			</br>
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
   <li>It forms a part of your daily lives where all the lectures,assignments and interactions are given to you .
 </li>
   <li> Constant interactions with professors and Teaching assistants.
@@ -442,7 +445,8 @@ body{
 </h1>
 			</br>
 	
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
+			</br>
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
   <li>Interviews and placements have a major part of english speaking.
 
 </li>
@@ -482,7 +486,7 @@ body{
 
 </h1></br>
 			
-			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
+			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.30);">
   <li> Most of the meetings and webinars that take place have conversations involving english.
 
 </li>
@@ -512,8 +516,8 @@ body{
 
   <div class="card  bg-custom">
     <img class="card-img-top" src="images/book.svg" style="width: 100%; height: 50%;" alt="Card image cap">
-    <div class="card-body ">
-      <h5 style="text-align:center;" class="card-title " >WORKBOOK</h5>
+    <div class="card-body">
+      <h5 class="card-title">WORKBOOK</h5>
       <p class="card-text">The WorkBook is a complete A To Z module which is going to help any Beginner to be College Ready and it is developed in such a way that people with no prior knowledge about English can work on their own without anyone’s guidance.</p>
     </div>
   </div>
@@ -524,8 +528,8 @@ body{
   <div class="card bg-custom1">
     <img class="card-img-top1" src="images/videoo.svg" style="width: 100%; height: 50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 style="text-align:center;" class="card-title">VIDEO WALKTHROUGH</h5>
-      <p class="card-text">A step by step  tutorial has been provided illustrating the process to enroll in the <a href="https://helloenglish.com/">Hello English</a>
+      <h5 class="card-title">VIDEO WALKTHROUGH</h5>
+      <p class="card-text">A step by step  tutorial has been provided illustrating the process to enroll in the <a href="https://helloenglish.com/">HELLO ENGLISH</a>
  program. This is free of cost for the students of IIT Delhi.  If you face any other issues or have any queries, mention it in the form below and we will help you resolve it. Happy learning!</p>
     </div>
   </div>  
@@ -535,8 +539,8 @@ body{
   <div class="card bg-custom2">
   <img class="card-img-top mx-auto d-block" src="images/orga.svg" style= "width: 90%; height:50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 style="text-align:center;" class="card-title">PAIRED UP ORGANISATION</h5>
-      <p class="card-text">BSW is glad to announce the collaboration with <a style="color:#800080"; href="https://helloenglish.com/">Hello English</a>. This is the first time in the history of IITD that a renowned organization is providing you an opportunity to learn English. This partnership is a big step towards reducing the language barrier among students and ensuring a comfortable stay for them.</p>
+      <h5 class="card-title">PAIRED UP ORGANISATION</h5>
+      <p class="card-text">BSW is glad to announce the collaboration with <a style="color:#800080"; href="https://helloenglish.com/">HELLO ENGLISH</a>. This is the first time in the history of IITD that a renowned organization is providing you an opportunity to learn English. This partnership is a big step towards reducing the language barrier among students and ensuring a comfortable stay for them. Please go through the video walkthrough given below to understand how to use this facility.</p>
     </div></div>
   </div>
 </div>
