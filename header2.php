@@ -411,7 +411,7 @@
 							<li><a class="dropdown-item" href="academic_mentorship.php">Academic Mentorship</a></li>
 							<li><a class="dropdown-item" href="alumni_mentorship.php">Alumni Mentorship</a><li>
 							<li><a class="dropdown-item" href="dialog.php"> </a></li>
-							<li><a class="dropdown-item" href="headerr.php">Language Mentorship</a><li>
+							<li><a class="dropdown-item" href="language_mentorship.php">Language Mentorship</a><li>
 							<li><a class="dropdown-item" href="mental_health.php">Mental Health Mentorship &amp; Counselling</a></li>
 						</ul>
 					</li>
@@ -504,16 +504,7 @@
 					<a class="nav-link" href="structure.php">Contact Us</a>
 				</li>
       				
-                <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
-						Hindi
-					</a>
-					<ul class="dropdown-menu">
-
-						<li><a class="dropdown-item" href="language_mentorship.php">English</a></li>
-					</ul>
-				</li>
-
+     
 				
 				
 

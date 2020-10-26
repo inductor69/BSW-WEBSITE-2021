@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en">
+<html >
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -45,7 +45,7 @@ body{
 	
 
 	#mh_heading1{
-    padding-top: 140px;
+    padding-top: 100px;
     font-family: Anton;
     font-size:5.5rem;
     color: rgba(0,0,0,0.70);
@@ -54,13 +54,25 @@ body{
     text-shadow: 0 2px 4px rgba(0,0,0,0.35);
 }
 #mh_heading2{
-    padding-top: 30px;
+    padding-top: 10px;
     font-family: Anton;
     font-size:1.9rem;
     color: rgba(0,0,0,0.70);
     letter-spacing: 1.2px;
     text-align: center;
     text-shadow: 0 1px 2px rgba(0,0,0,0.350);
+}
+#mh_heading3{
+    padding-top: 40px;
+    font-family: Montserrat;
+    font-size:1.2rem;
+    color: rgba(0,0,0,0.70);
+    letter-spacing: 1.2px;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.20);
+}
+.text-my {
+  color: #000 !important; // Define your own color in your CSS
 }
 #mh_heading{
     padding-top: 10px;
@@ -203,7 +215,7 @@ body{
 		font-family: Montserrat;
 		font-weight:500;
 		font-size: 20px;
-		text-shadow: 0 2px 4px rgba(0,0,0,0.0);
+		text-shadow: 0 0px 0px rgba(0,0,0,0.25);
 		color: rgba(0,0,0,0.85);
 		letter-spacing: 0;
 		text-align: center;
@@ -224,54 +236,13 @@ body{
         height:80vh;
     }
 
-
+    .text-decoration-underline {
+  text-decoration: underline !important;
+}
 </style>
 
 </head>
-<script type="text/javascript">
 
-(function() {
-  // Variables
-  var panel     = document.getElementById("js-panel");
-  var btns      = document.querySelectorAll(".flap__btn");
-  var btnReplay = document.getElementById("js-replay");
-  
-  // On load, init panel
-  var init = function() {
-    panel.classList.add("is--open");
-    
-    // If btns are clicked, hide panel
-    // Show replay button    
-    for (var i=0; i < btns.length; i++) {
-      btns[i].addEventListener("click", function() {
-        hidePanel();
-      });
-    }
-    
-    function hidePanel() {
-      panel.classList.remove("is--open");
-      btnReplay.classList.add("is--active");
-    }
-    
-    // When replay button is clicked,
-    // reset the stage.
-    btnReplay.addEventListener("click", function() {
-      resetStage();
-    });
-  }
-  
-  // Hide the button and re-call init
-  function resetStage() {
-    btnReplay.classList.remove("is--active");
-    init();
-  }
-  
-  // On load, call init function
-  window.onload = function() {
-    init();
-  }
-})();
-      </script>
 
 <body >
 		
@@ -291,7 +262,10 @@ body{
             </div>
 			
             <div class="col-xs-12 col-sm-5" style="text-align: center;" >
-			</br>
+      </br>
+      <div class="clearfix" id="mh_heading3">
+      <span class="float-right">Language: <a class="text-my text-decoration-underline" href="language_mentorship.php">English</a> | <a class="text-my text-decoration-underline" href="lang_ment_hindi.php">Hindi</a></span>
+</div>
             <h1 style="font-family: Anton !important;" id="mh_heading1" >लैंग्वेज मेंटरशिप</h1>
 			<p style="font-family: Anton !important;" id="mh_heading2" >संचार अंतराल को पाटना </p>
 
@@ -312,9 +286,6 @@ body{
 
     <a href="#resources"> <div role="button" class="btn align-self-end"><span class="fa fa-arrow-down fa-lg" > </a> </span></div> परिचय
 </h1></br>
-			
-	
-			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px;  text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>लैंग्वेज मेंटरशिप बीएसडब्ल्यू की एक पहल है जिसका उद्देश्य एक एकीकृत माहौल बनाना है जहां छात्र भाषा सीख सकते हैं और अभ्यास कर सकते हैं।</li>
   <li> इसका उद्देश्य छात्रों के भीतर अंग्रेजी या हिंदी भाषा को समझने में असहजता को दूर करना है|</li>
@@ -349,9 +320,7 @@ body{
 <h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(कौशल ही सब कुछ नहीं है)
 
 </h1>
-			</br>
-	
-			</br>
+			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>प्रत्येक व्यक्ति की अपमी अलग सोच और व्यहवहार हैं और हम सभी के पास मूल्यवान स्किल सेट हैं।
 </li>
@@ -378,9 +347,7 @@ body{
             <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">अंग्रेजी सीखने की आवश्यकता
 </h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(एक वैश्विक स्तर पर भी)
 </h1>
-			</br>
-	
-			</br>
+			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>
 अंग्रेजी विश्व स्तर पर स्वीकृत भाषा है। इसका उपयोग इतना आम हो गया है कि भाषा पर एक अच्छी पकड़ होना आवश्यक है।
@@ -403,8 +370,7 @@ body{
     <div class="container-fluid">
         <div class="row">
 		<div class="col-12 col-lg-6">
-			</br>
-		
+			
 			
 			<div class= "lottie">
 			<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -415,9 +381,7 @@ body{
 
 </h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(विशेष रूप से कॉलेज और दैनिक जीवन)
 </h1>
-			</br>
-	
-			</br>
+			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>यह आपके दैनिक जीवन का एक हिस्सा बनाता है जहां आपको सभी लेक्चर, असाइनमेंट और इंटरैक्शन दिए जाते हैं।
 </li>
@@ -444,9 +408,7 @@ body{
 
 </h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(विशेष रूप से इंटर्न और प्लेसमेंट)
 </h1>
-			</br>
-	
-			</br>
+			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>इंटरव्यू और प्लेसमेंट में अंग्रेजी बोलने का एक प्रमुख हिस्सा है।
 </li>
@@ -517,7 +479,7 @@ body{
   <div class="card  bg-custom">
     <img class="card-img-top" src="images/book.svg" style="width: 100%; height: 50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 style="text-align:center;" class="card-title">कार्यपुस्तिका</h5>
+      <h5 style="text-align:center;" class="card-title"><b>कार्यपुस्तिका</b></h5>
       <p class="card-text">वर्कबुक एक पूर्ण ए टू जेड मॉड्यूल है जो किसी भी शुरुआती को कॉलेज रेडी होने में मदद करने वाला है और इसे इस तरह से विकसित किया जाता है कि अंग्रेजी के बारे में पूर्व में कम ज्ञान रखने वाले लोग भी किसी के मार्गदर्शन के बिना अपने दम पर काम कर सकते हैं।</p>
     </div>
   </div>
@@ -528,7 +490,7 @@ body{
   <div class="card bg-custom1">
     <img class="card-img-top1" src="images/videoo.svg" style="width: 100%; height: 50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 style="text-align:center;" class="card-title">वीडियो वॉकथ्रू</h5>
+      <h5 style="text-align:center;" class="card-title"><b>वीडियो वॉकथ्रू</b></h5>
       <p class="card-text"><a href="https://helloenglish.com/">Hello English</a> कार्यक्रम में नामांकन करने के लिए प्रक्रिया के बारे में बताते हुए एक स्टेप बाय स्टेप ट्यूटोरियल प्रदान किया गया है । यह आईआईटी दिल्ली के छात्रों के लिए मुफ्त है। यदि आप किसी अन्य समस्या का सामना करते हैं या आपके कोई प्रश्न हैं, तो नीचे दिए गए फॉर्म में इसका उल्लेख करें और हम आपको इसे हल करने में मदद करेंगे। आशा है आपको सीखने में आनंद आएगा !</p>
     </div>
   </div>  
@@ -538,7 +500,7 @@ body{
   <div class="card bg-custom2">
   <img class="card-img-top mx-auto d-block" src="images/orga.svg" style= "width: 90%; height:50%;" alt="Card image cap">
     <div class="card-body">
-      <h5 style="text-align:center;" class="card-title">सहयोजित संगठन </h5>
+      <h5 style="text-align:center;" class="card-title"><b>सहयोजित संगठन </b></h5>
       <p class="card-text">बीएसडब्ल्यू को <a style="color:#800080"; href="https://helloenglish.com/">Hello English</a> के साथ सहयोग की घोषणा करने में खुशी है । आईआईटीडी के इतिहास में यह पहली बार है कि एक प्रसिद्ध संगठन आपको अंग्रेजी सीखने का अवसर प्रदान कर रहा है। यह साझेदारी छात्रों के बीच भाषा की बाधा को कम करने और उनके लिए एक आरामदायक प्रवास सुनिश्चित करने की दिशा में एक बड़ा कदम है। कृपया इस सुविधा का उपयोग करने के तरीके को समझने के लिए नीचे दिए गए वीडियो वॉकथ्रू से गुजरें।</p>
     </div></div>
   </div>
@@ -573,7 +535,28 @@ body{
 
 </br>
 </br>
+<div class= "container">
+<div class="container justify-content-center mb-4" id="lm-wb">
 
+<div class="row justify-content-center">
+
+          <div class="col-12 mt-4 about-us-title justify-content-center" style="text-align: center; font-family: Montserrat !important;">
+    <h1 style="font-family: Montserrat !important; ">
+    Why English and Communication skills are important?         
+    </h1>
+
+    </div>
+
+
+</div>
+
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cBpUkghEWWg?rel=0" allowfullscreen></iframe>
+</div>
+</div>
+  </br>
 
 
 </div>

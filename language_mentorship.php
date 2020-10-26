@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en">
+<html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -45,7 +45,7 @@ body{
 	
 
 	#mh_heading1{
-    padding-top: 140px;
+    padding-top: 100px;
     font-family: Anton;
     font-size:5.5rem;
     color: rgba(0,0,0,0.70);
@@ -54,13 +54,25 @@ body{
     text-shadow: 0 2px 4px rgba(0,0,0,0.35);
 }
 #mh_heading2{
-    padding-top: 30px;
+    padding-top: 10px;
     font-family: Anton;
     font-size:1.9rem;
     color: rgba(0,0,0,0.70);
     letter-spacing: 1.2px;
     text-align: center;
     text-shadow: 0 1px 2px rgba(0,0,0,0.350);
+}
+#mh_heading3{
+    padding-top: 40px;
+    font-family: Montserrat;
+    font-size:1.2rem;
+    color: rgba(0,0,0,0.70);
+    letter-spacing: 1.2px;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.20);
+}
+.text-my {
+  color: #000 !important; // Define your own color in your CSS
 }
 #mh_heading{
     padding-top: 10px;
@@ -203,7 +215,7 @@ body{
 		font-family: Montserrat;
 		font-weight:500;
 		font-size: 20px;
-		text-shadow: 0 2px 4px rgba(0,0,0,0.25);
+		text-shadow: 0 0px 0px rgba(0,0,0,0.25);
 		color: rgba(0,0,0,0.85);
 		letter-spacing: 0;
 		text-align: center;
@@ -224,7 +236,9 @@ body{
         height:80vh;
     }
 
-
+    .text-decoration-underline {
+  text-decoration: underline !important;
+}
 </style>
 
 </head>
@@ -291,7 +305,10 @@ body{
             </div>
 			
             <div class="col-xs-12 col-sm-5" style="text-align: center;" >
-			</br>
+      </br>
+      <div class="clearfix" id="mh_heading3">
+  <span class="float-right">Language: <a class="text-my text-decoration-underline" href="language_mentorship.php">English</a> | <a class="text-my text-decoration-underline" href="lang_ment_hindi.php">Hindi</a></span>
+</div>
             <h1 style="font-family: Anton !important;" id="mh_heading1" >Language Mentorship</h1>
 			<p style="font-family: Anton !important;" id="mh_heading2" >Bridging The Communication Gap </p>
 
@@ -308,7 +325,8 @@ body{
         <div class="row">
 
 		<div class="col-12 col-lg-6 "  >
-		<h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">Introduction
+    <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">
+    <a href="#resources"> <div role="button" class="btn align-self-end"><span class="fa fa-arrow-down fa-lg" > </a></div>Introduction
 </h1>
 			
 	
@@ -347,7 +365,7 @@ body{
 <h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(SKILLS AREN’T EVERYTHING)
 
 </h1>
-			</br>
+			
 	
 	
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
@@ -376,8 +394,7 @@ body{
             <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">Necessity Of Learning English 
 </h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(Even On A Global Level)
 </h1>
-			</br>
-
+			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>English is a globally accepted language. Its use has become so common that  having a good command over the language is essential.
 </li>
@@ -399,7 +416,7 @@ body{
     <div class="container-fluid">
         <div class="row">
 		<div class="col-12 col-lg-6">
-			</br>
+		
 		
 
 			
@@ -412,7 +429,7 @@ body{
 
 </h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(Specifically  College And Daily Life)
 </h1>
-			</br>
+			
 	
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>It forms a part of your daily lives where all the lectures,assignments and interactions are given to you .
@@ -440,7 +457,7 @@ body{
 
 </h1><h1 style="font-family: Montserrat !important;" id="mh_heading2" style="text-align: center;">(Specifically  Interns And Placements)
 </h1>
-			</br>
+			
 	
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li>Interviews and placements have a major part of english speaking.
@@ -480,7 +497,7 @@ body{
             <h1 style="font-family: Montserrat !important;" id="mh_heading" style="text-align: center;">English Required In The Future
 
 
-</h1></br>
+</h1>
 			
 			<ul style="list-style-type:disc; text-align: left; font-size: 20px; text-shadow: 0 2px 2px rgba(0,0,0,0.0);">
   <li> Most of the meetings and webinars that take place have conversations involving english.
@@ -505,6 +522,8 @@ body{
 </div>
 
 </br></br>
+<a id="resources"></a>
+
 <div class="container">
 <div class="row">
 
@@ -628,6 +647,29 @@ body{
 </div>
 </div>
   </br>
+  <div class= "container">
+<div class="container justify-content-center mb-4" id="lm-wb">
+
+<div class="row justify-content-center">
+
+          <div class="col-12 mt-4 about-us-title justify-content-center" style="text-align: center; font-family: Montserrat !important;">
+    <h1 style="font-family: Montserrat !important; ">
+    Why English and Communication skills are important?         
+    </h1>
+
+    </div>
+
+
+</div>
+
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cBpUkghEWWg?rel=0" allowfullscreen></iframe>
+</div>
+</div>
+  </br>
+
   </div>
 
 <?php require 'components/footer.php'; ?>

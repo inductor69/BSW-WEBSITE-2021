@@ -79,6 +79,7 @@
 				
 				<p><ol class="list-group" >
 				        <!-- <li><a href="forms/grant_form.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b>BSW Grant Form</b></a></li> -->
+
 				       <li class="list-group-item  " style="border: 1px solid #20AA9D;"><a href="forms/loan_form.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b>BSW Loan Form</b></a></li> 
 					<li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/wheelchair.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b>BSW Wheelchair Form</b></a></li>
 				        <li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/NoDues.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b>No Dues Certificate Form</b></a> <p class="std">For BSW No Dues, please visit Mrs. Rani in Student Affairs Section.</p></li>
@@ -97,7 +98,7 @@
 
                          <li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="taxbonafide.php" target="_blank" rel="noopener noreferrer" class="form_link"><b>Bonafide Certificate form for Fees / Tax Department - </b></a><p class="std">BSW now makes it easy for you to fill the bonafide form online. Just fill in all your details in this form to get your Bonafide made. The bonafide is generated/downloaded to your browser and you can get it signed anytime from the UG Section.</p></li>
 
-                          <li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/HRA FORM.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b> Form for HRA Certificate </b></a></li>
+                          <li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/hra.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b> Form for HRA Certificate </b></a></li>
 
                           <li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/FORM FOR RELEASING BICYCLE.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b> Form for releasing Bicycle/Laptop/Mobile/Bike/Scooty/Car </b></a></li>
 
