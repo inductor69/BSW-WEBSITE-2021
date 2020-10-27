@@ -84,6 +84,8 @@
 					<li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/wheelchair.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b>BSW Wheelchair Form</b></a></li>
 				        <li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/NoDues.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b>No Dues Certificate Form</b></a> <p class="std">For BSW No Dues, please visit Mrs. Rani in Student Affairs Section.</p></li>
 						<li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/scholarship_form.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b>Scholarship Form</b></a></li>
+                        <li class="list-group-item " style="border: 1px solid #20AA9D;"><a href="forms/married.pdf" target="_blank" rel="noopener noreferrer" class="form_link"><b>Application Form for Married Accommodation</b></a></li>
+
 				        <li class="list-group-item " style="border: 1px solid #20AA9D;"><b>UG Forms - </b>
 				          <ul type="square" class="sub-list">
 				          <li><a href="forms/ID card form.pdf" target="_blank" rel="noopener noreferrer" class="form_link" >Application for duplicate identity card</a></li>
