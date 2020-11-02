@@ -132,7 +132,8 @@
                     <p style="z-index: 214748364799"><strong style="font-weight: bold; font-family: 'Montserrat', sans-serif ;">Website Created and Maintained by:</strong><br />
                 <span class="fa fa-code"></span><a href="https://www.linkedin.com/in/japneet-s-ab786b10a/">  Japneet Singh</a></br>
                 <span class="fa fa-code"></span><a href="https://www.linkedin.com/in/prabhpreet-s-791241195/">  Prabhpreet Singh</a></br>
-                <span class="fa fa-code"></span><a href="https://www.linkedin.com/in/ayush-srivastava-3616a9141">  Ayush Srivastava</a></br>
+                <span class="fa fa-code"></span><a href="https://www.linkedin.com/in/aditya-kumar-b99b1519b/">  Aditya Kumar</a></br>
+
                 </p>
     
             <h3>&copy; BSW 2020</h3>
