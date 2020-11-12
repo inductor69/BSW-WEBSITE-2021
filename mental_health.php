@@ -112,17 +112,17 @@ body{
   display: inline-block;
   font-size: 1em;
   padding: 1em 2em;
-  margin-top: 100px;
-  margin-bottom: 60px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   -webkit-appearance: none;
   appearance: none;
-  background-color: #ff0081;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   border-radius: 4px;
   border: none;
   cursor: pointer;
   position: relative;
-  transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
+  transition: transform ease-in 0.1s, box-shadow ease-in 0.05s;
   box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
 }
 .bubbly-button:focus {
@@ -214,9 +214,10 @@ body{
             <div class="col-12 col-lg-6 " style="text-align: center;" >
             <h1 style="font-family: Montserrat !important;" id="mh_heading" >Mental Health <br> Mentorship & <br>Counselling</h1>
             <p style="font-weight: 400; font-size: 1.5rem; padding:20px">Your mental health influences how you think, feel, and behave in daily life. It also affects your ability to cope with stress, overcome challenges, build relationships, and recover from life’s setbacks and hardships.</p>
-            <form action="https://yourdost.com/emotional-wellness-test">
-<button class="bubbly-button">YourDOST</button>
-</form>
+            </br>
+        <p style="font-weight: 400; font-size: 1.5rem"> </p>
+
+           
             </div>
 
 		</div>	
@@ -236,7 +237,7 @@ body{
         <hr>
         <p style="font-size:1.2rem">Your journey through college must be riddled with so many questions right? Questions about academics, career, relationships and even yourself. If only it were possible to get a friend who could give you anonymous, unbiased, round the clock 24x7 help. Well, look no further, because we've got just the thing for you.
         <br>IIT Delhi is pleased to join hands with YourDOST, one of India's leading online and emotional wellness platforms, to ensure that your emotional well-being is always looked after.
-        <br><strong>Important!</strong>- ​You must sign up using your official IIT Delhi email id (ending with "i​ itd.ac.in"​ ). This will white list your account and make sure that you receive our services for free.
+        <br><strong>Important!</strong>- ​You must sign up using your official IIT Delhi email id (ending with "i​itd.ac.in"​ ). This will white list your account and make sure that you receive our services for free.
         <br>Please write to ​campus@yourdost.com​ if you face any issues.
         </p>
         <div class="row justify-content-center" style="padding: 10px">
@@ -260,8 +261,13 @@ body{
         <div class="col-12 col-lg-3 mx-2 my-2" style="background: white; border-radius: 20px; padding:10px;">
         <img src="images/yd5.png" style="width: 98%; border-radius: 10px; "><br>5. Alternatively, click "​Book An Appointment​" to book an audio/video appointment with a YourDOST Expert.
         </div>
+         </div>
+         <p style="font-size:1.2rem">Take a quick assessment to determine your emotional wellness by answering a few questions.</p>
 
-        </div>
+         <form action="https://yourdost.com/emotional-wellness-test" target="_blank">
+<button class="bubbly-button">YourDOST</button>
+</form>
+       
 		</div>
 
         <div class="col-12my-4 initiative1 mx-2">
