@@ -396,7 +396,7 @@ font-size: 20px;
 
     <!-- navigation bar -->
     <nav class="navigation navbar navbar-light navbar-expand-lg fixed-top">
-      <a href="#" class="navbar-brand"><img class="logo-img" src="images/bsw_logo.png" alt="logo of housewise"></a>
+      <a href="http://bsw.iitd.ac.in/" class="navbar-brand"><img class="logo-img" src="images/bsw_logo.png" alt="logo of housewise"></a>
       <button  class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbar-content" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -419,9 +419,6 @@ font-size: 20px;
           </li>
           <li class="nav-item ml-auto">
             <a href="#FAQS" class="nav-link nav-link-6" id="nav-link-6">FAQ's</a>
-          </li>
-          <li class="nav-item ml-auto">
-            <a href="#" class="nav-link nav-link-6" id="nav-link-6">Offline Semester</a>
           </li>  
         </ul>
       </div>
@@ -637,7 +634,7 @@ font-size: 20px;
               </div>
               <div id="Two" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="card-body text-center" style="padding-left: 60px; padding-right:60px;">
-                  Ans.- Again it depends on the course coordinator,if he wishes to he will surely take
+                  Ans.- Again it depends on the course coordinator,if she wishes to she will surely take
                proctored examinations. But even if they don’t, many of them do use plagiarism softwares 
                for evaluation, So BEWARE!!                  </div>
               </div>
@@ -660,8 +657,8 @@ font-size: 20px;
             </div>
             <div id="Three" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
               <div class="card-body text-center" style="padding-left: 60px; padding-right:60px;">
-                Ans.- No, rather you would be provided with take-home assignments or there would be
-               live demonstrations with a viva-voce in the end.If nothing of the above mentioned takes place 
+                Ans.- No.You will be provided with take-home assignments or there will be
+               live demonstrations with a viva-voce in the end. If nothing of the above mentioned takes place 
                then they would be conducted once you return to the campus. </div>
             </div>
           </div>

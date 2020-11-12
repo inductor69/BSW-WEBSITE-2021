@@ -529,7 +529,7 @@ body{
     <img class="card-img-top1" src="images/videoo.svg" style="width: 100%; height: 50%;" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">VIDEO WALKTHROUGH</h5>
-      <p class="card-text">A step by step  tutorial has been provided illustrating the process to enroll in the <a href="https://helloenglish.com/">HELLO ENGLISH</a>
+      <p class="card-text">A step by step  tutorial has been provided illustrating the process to enroll in the _______
  program. This is free of cost for the students of IIT Delhi.  If you face any other issues or have any queries, mention it in the form below and we will help you resolve it. Happy learning!</p>
     </div>
   </div>  
@@ -540,7 +540,7 @@ body{
   <img class="card-img-top mx-auto d-block" src="images/orga.svg" style= "width: 90%; height:50%;" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">PAIRED UP ORGANISATION</h5>
-      <p class="card-text">BSW is glad to announce the collaboration with <a style="color:#800080"; href="https://helloenglish.com/">HELLO ENGLISH</a>. This is the first time in the history of IITD that a renowned organization is providing you an opportunity to learn English. This partnership is a big step towards reducing the language barrier among students and ensuring a comfortable stay for them. Please go through the video walkthrough given below to understand how to use this facility.</p>
+      <p class="card-text">BSW is glad to announce the collaboration with _______. This is the first time in the history of IITD that a renowned organization is providing you an opportunity to learn English. This partnership is a big step towards reducing the language barrier among students and ensuring a comfortable stay for them. Please go through the video walkthrough given below to understand how to use this facility.</p>
     </div></div>
   </div>
 </div>
