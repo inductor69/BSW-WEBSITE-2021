@@ -514,8 +514,8 @@
 							<a href="newsletter.php" style="text-decoration: none; width: 100%; border-radius: 10px; line-height: 60px;" class="btn btn-light my-2">
 							<h4 class="my-3"><span class="fa fa-newspaper-o"></span> Newsletter</h4>
 							</a>
-							<a href="diary.php" style="text-decoration: none; width: 100%; border-radius: 10px; line-height: 60px;" class="btn btn-light my-2 ">
-							<h4 class="my-3"><span class="fa fa-bookmark"></span> Diary</h4>
+							<a href="oae/index.html" style="text-decoration: none; width: 100%; border-radius: 10px; line-height: 60px;" class="btn btn-light my-2 ">
+							<h4 class="my-3"><span class="fa fa-bookmark"></span> OAE</h4>
 							</a>
 							<a href="booklets.php" style="text-decoration: none; width: 100%; border-radius: 10px; line-height: 60px;" class="btn btn-light my-2 ">
 							<h4 class="my-3"><span class="fa fa-book"></span> Booklets</h4>
