@@ -3,7 +3,7 @@
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" type="text/javascript"></script>
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 <style type="text/css">
 
@@ -69,7 +69,7 @@
 		background-size: 0% 2px;
 		transition: background-size .3s;
 	}
-	.navbar-nav a:hover{ 
+	.navbar-nav a:hover{
 		color:#fff;
 		background-size: 100% 2px;
 	}
@@ -89,8 +89,8 @@
 		background-size: 0% 2px !important;
 		transition: background-size .3s !important;
 	}
-	
-	.navbar .nav-link .dropdown-toggle:hover{ 
+
+	.navbar .nav-link .dropdown-toggle:hover{
 		color:#fff !important;
 		background-size: 100% 2px !important;
 	}
@@ -99,13 +99,13 @@
     	color: #fff;
 	}
 
-	.nav-colored{ 
+	.nav-colored{
 		background-image: linear-gradient(90deg, #67B26F 0%, rgba(76,162,205,0.61) 100%);
 		border: none;
 		margin-top:0;
 	}
 
-	.nav-transparent { 
+	.nav-transparent {
 		background-color:transparent;
 		transition: linear;
 	}
@@ -152,7 +152,7 @@
     text-decoration: none;
     background-color: transparent !important;
 }
-		
+
 		.dropdown-menu .dropdown-toggle:after{
 			font-family: 'neue_montrealregular' !important;
 			font-size: 12px !important;
@@ -184,7 +184,7 @@
 			position: relative;
 			font-weight: normal !important;
 		}
-		.nav-item .submenu{ 
+		.nav-item .submenu{
 			font-family: 'neue_montrealregular' !important;
 			display: none;
 			position: absolute;
@@ -192,7 +192,7 @@
 			font-weight: normal !important;
 
 		}
-		.nav-item .submenu-left{ 
+		.nav-item .submenu-left{
 			right:100%; left:auto;
 			font-weight: normal !important;
 		}
@@ -200,9 +200,9 @@
 		.dropdown-menu > li:hover > .submenu{
 			display: block;
 		}
-		
 
-	
+
+
 	}
 	body {
   font-family: sans-serif;
@@ -371,7 +371,7 @@
   padding: 0;
   border: 0;
 }
-	
+
 </style>
 
 <html>
@@ -387,15 +387,15 @@
 		<button id="navbar-toggler" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav">
 			<span class="fa fa-bars fa-lg"></span>
 		</button>
-		
+
 		<div class="collapse navbar-collapse justify-content-center" id="main_nav" id="nav-align-handle">
 
 			<ul class="navbar-nav nav ">
 
-				<li class="nav-item active"> 
+				<li class="nav-item active">
 					<a class="nav-link" href="./freshers/index.php"><span class="fa fa-external-link-square"></span>  Freshers'20 </a>
 				</li>
-				
+
 				<li class="nav-item ">
 					<a class="nav-link" href="about_us.php">About Us</a>
 				</li>
@@ -418,6 +418,8 @@
 					<li><a class="dropdown-item" href="#">Operations <small><span id="right-drop-arrow">&#9658;</span></small></a>
 						<ul class="submenu dropdown-menu">
 							<li><a class="dropdown-item" href="orientation.php">Freshers Orientation</a></li>
+							<li><a class="dropdown-item" href="oae/index.html">OAE</a></li>
+
 							<li><a class="dropdown-item" href="events.php">Events</a></li>
 							<li><a class="dropdown-item" href="scoops.php">SCOOPS</a></li>
 							<li><a class="dropdown-item" href="career_counselling.php">Career Counselling</a></li>
@@ -430,7 +432,7 @@
 				</li>
 
 
-				
+
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">
 						Resources
@@ -503,9 +505,11 @@
 				<li class="nav-item ">
 					<a class="nav-link" href="structure.php">Contact Us</a>
 				</li>
+				<li class="nav-item ">
+					<a class="nav-link" href="https://forms.gle/dnFj6sZMPCc5BKyHA" style="border: 2px solid; border-radius: 10px; padding-top : 0.2rem; padding-bottom : 0.2rem;">Mentor Feedback</a>
+				</li>
 
-				
-				
+
 
 			</ul>
 
@@ -535,7 +539,7 @@ const $dropdownToggle = $(".dropdown-toggle");
 const $dropdownMenu = $(".dropdown-menu");
 const $submenu = $(".dropdown-menu .submenu");
 const showClass = "show";
- 
+
 $(window).on("load resize", function() {
   if (this.matchMedia("(min-width: 768px)").matches) {
     $dropdown.hover(
@@ -557,8 +561,8 @@ $(window).on("load resize", function() {
     $dropdown.off("mouseenter mouseleave");
   }
 });
-	
-	
+
+
 
 $(document).ready(function() {
 
@@ -572,13 +576,13 @@ $(document).ready(function() {
                 $('#navbar-toggler').children('span').removeClass('fa-times');
                 $('#navbar-toggler').children('span').addClass('fa-bars');
             }
-    
+
 	});
 	console.log("icon changed");
 
 
-   
-	
+
+
 
 	if ($(window).width() < 992) {
 	  	$('.dropdown-menu a').click(function(e){
@@ -593,15 +597,7 @@ $(document).ready(function() {
 		  return false;
 	}
 
-}); 
+});
 
 
 </script>
-
-
-
-		
-
-
-
-
